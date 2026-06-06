@@ -3,6 +3,7 @@ RENCANA AKU ASROFI
   *nikahi
   *nafkahi
   ^ Vue
+  ^react
 - amin
 - atin
   ^laravel
