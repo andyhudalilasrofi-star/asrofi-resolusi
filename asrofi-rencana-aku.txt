@@ -2,7 +2,10 @@ RENCANA AKU ASROFI
 - novi
   *nikahi
   *nafkahi
+  ^ Vue
+  ^react
 - amin
 - atin
+  ^laravel
 - shole
 - ha
