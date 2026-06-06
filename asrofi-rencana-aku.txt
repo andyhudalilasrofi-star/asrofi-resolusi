@@ -2,7 +2,8 @@ RENCANA AKU ASROFI
 - novi
   *nikahi
   *nafkahi
-- amin
+  ^anguler
+  ^react
 - atin
 - shole
 - ha
